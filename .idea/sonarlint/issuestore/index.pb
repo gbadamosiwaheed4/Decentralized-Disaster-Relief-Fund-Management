@@ -15,3 +15,5 @@ O
 contracts/impact-reporting.clar,2/9/296c72169c83af5c7978c131858b6371b7f83db5
 N
 tests/needs-assessment.test.ts,e/e/ee629335bd6df336104099ecf3dec2549b8bf8d5
+O
+contracts/needs-assessment.clar,9/7/97ca52603ff32aef4c61dc30f520d1fbdaacb26b
