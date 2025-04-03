@@ -9,3 +9,9 @@ N
 contracts/fund-allocation.clar,4/3/43407d338d293748c4e862305abc734e3555985c
 M
 tests/fund-allocation.test.ts,2/6/26b8bde75102b48c61abc472ec877a539a405ab7
+N
+tests/impact-reporting.test.ts,a/c/ac2e6592327ec1effa7641c051a351936ee5593a
+O
+contracts/impact-reporting.clar,2/9/296c72169c83af5c7978c131858b6371b7f83db5
+N
+tests/needs-assessment.test.ts,e/e/ee629335bd6df336104099ecf3dec2549b8bf8d5
